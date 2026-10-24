@@ -1,1 +1,0 @@
-# operator_guide_project
